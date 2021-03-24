@@ -1,8 +1,8 @@
+# Visual Boy Advance (1.8.0) using SDL.
+
 # Goals
 
 * Port to TI-83+ in Z80 from C or C++
-
-Visual Boy Advance (1.8.0) using SDL.
 
 # Features
 
