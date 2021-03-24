@@ -18,10 +18,10 @@ Follow INSTALL file for Unix then Windows
 
 # Screenshots
 
-* Chrome   ![vba-chrome-1 4 29](https://user-images.githubusercontent.com/58202540/112295008-78b86980-8c61-11eb-8ff8-324eb5cb47ff.jpg)
-* Windows  ![vba-windows-1 8 0](https://user-images.githubusercontent.com/58202540/112295519-fb412900-8c61-11eb-805e-c51898de4bbb.jpg)
-* Ubuntu   ![vba-ubuntu-1 8 0](https://user-images.githubusercontent.com/58202540/112295175-a6051780-8c61-11eb-81be-0ddd40473e25.png)
-* OSX      ![vba-mac-1 8 0](https://user-images.githubusercontent.com/58202540/112295325-cb922100-8c61-11eb-9b78-60bd7a451b07.jpg)
+* Chrome   ![vba-chrome-1 4 29](https://user-images.githubusercontent.com/58202540/112297507-f9786500-8c63-11eb-9328-53e423eef487.png)
+* Windows  ![vba-windows-1 8 0](https://user-images.githubusercontent.com/58202540/112297556-0ac17180-8c64-11eb-9bef-4e0855b5802e.png)
+* Ubuntu   ![vba-ubuntu-1 8 0](https://user-images.githubusercontent.com/58202540/112297618-1c0a7e00-8c64-11eb-8875-32486bc01b74.png)
+* OSX      ![vba-mac-1 8 0](https://user-images.githubusercontent.com/58202540/112297654-275da980-8c64-11eb-8a70-c5796ecbec8e.png)
 
 # Dev
 
