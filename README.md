@@ -31,6 +31,15 @@ Follow INSTALL file for Unix then Windows
 * Ubuntu     https://github.com/visualboyadvance-m/visualboyadvance-m
 * OS/X        https://github.com/visualboyadvance-m/visualboyadvance-m
 
+## Downloads
+
+* Visual Studio C++ 2005                https://www.mediafire.com/file/wzcu9fvaervcnvd/Visual+Studio+C+++Express+2005.iso/file
+* Microsoft Platform SDK (Febuary 2003) https://www.mediafire.com/file/0myj7ua177h50e4/Microsoft+Platform+SDK+(Feburary+2003).zip/file
+* Microsoft DirectX 9 SDK (August 2006) https://www.mediafire.com/file/8ezrrc63zb38ouo/Microsoft+DirectX+9.0+(August+2006).exe/file
+* YASM                                  https://www.mediafire.com/file/xafq9qz6myqrvlt/YASM+1.3.0.zip/file
+* AMD CodeAnalyst (CodeXL)              https://www.mediafire.com/file/yuwp2gnkig85h8g/AMD+CodeXL+1.9.10103.exe/file
+
+
 # Download
 
 Contains all four OS: https://www.mediafire.com/file/oh3v3ny2nhvh1xb/vba.zip/file
